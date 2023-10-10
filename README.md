@@ -5,6 +5,7 @@
 ¡Soy Andrea, desarrolladora front-end en formación! Mi principal motivación para adentrarme en el mundo de la tecnología es que es un campo muy amplio, donde todos los días aprendo algo nuevo y además tengo la posibilidad de crear soluciones a través de interfaces innovadoras y funcionales cuyo centro sean los usuarios.    
 
 ## Más sobre mí 
+- 🌱 Actualmente estoy aprendiendo: React. 
 - 📚 Soy una lectora apasionada. Me encanta la literatura. 
 - 🏃🏽‍♀️ Practico running. He corrido muchas carreras, incluyendo maratones y medios maratones.  
 - 🤝 Mis habilidades incluyen pensamiento crítico, creatividad, profesionalismo y organización.
